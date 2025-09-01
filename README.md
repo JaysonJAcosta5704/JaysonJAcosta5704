@@ -2,14 +2,14 @@
 
 ## About Me
 🎓 **Computer Engineering Student** at Iowa State University (Graduating May 2026)  
-💼 **Software Engineer Apprentice & Delivery Lead** at Source Allies  
+💼 **Software Engineer Apprentice & Delivery Lead** at Source Allies (May 2025 to August 2025)
 ☁️ **AWS Certified Developer - Associate**  
 🌟 Passionate about building scalable full-stack applications and AI-powered solutions
 
 ## 🚀 What I'm Working On
 - 🤖 **Project Helper AI Chatbot** - AI-powered code repository analysis using LangChain and AWS Bedrock
-- 📱 **Konnect Android App** - Team collaboration mobile application
-- 🔧 Automating workflows with AWS Lambda and improving development processes
+- 💼 **Portfolio Website** - Personal portfolio showcasing my projects and experience
+- ⚙️ **NixOS Configuration** - Personal NixOS system configuration and dotfiles
 
 ## 🛠️ Tech Stack
 
@@ -25,10 +25,9 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
-### Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ### Cloud & DevOps
