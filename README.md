@@ -7,9 +7,9 @@
 🌟 Passionate about building scalable full-stack applications and AI-powered solutions
 
 ## 🚀 What I'm Working On
-- 🤖 **Project Helper AI Chatbot** - AI-powered code repository analysis using LangChain and AWS Bedrock
-- 💼 **Portfolio Website** - Personal portfolio showcasing my projects and experience
-- ⚙️ **NixOS Configuration** - Personal NixOS system configuration and dotfiles
+🤖 **Project Helper AI Chatbot** - AI-powered code repository analysis using LangChain and AWS Bedrock  
+💼 **Portfolio Website** - Personal portfolio showcasing my projects and experience  
+⚙️ **NixOS Configuration** - Personal NixOS system configuration and dotfiles  
 
 ## 🛠️ Tech Stack
 
