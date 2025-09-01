@@ -2,7 +2,7 @@
 
 ## About Me
 🎓 **Computer Engineering Student** at Iowa State University (Graduating May 2026)  
-💼 **Software Engineer Apprentice & Delivery Lead** at Source Allies (May 2025 to August 2025)
+💼 **Software Engineer Apprentice & Delivery Lead** at Source Allies (May 2025 to August 2025)  
 ☁️ **AWS Certified Developer - Associate**  
 🌟 Passionate about building scalable full-stack applications and AI-powered solutions
 
