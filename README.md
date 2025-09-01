@@ -40,12 +40,12 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JaysonJAcosta5704&layout=compact&theme=radical)
 
 ## 🏆 Certifications
-- AWS Certified Developer - Associate
+AWS Certified Developer - Associate  
 
 ## 🌐 Languages
-- 🇺🇸 English (Native)
-- 🇪🇸 Spanish (Intermediate)
-- 🤟 American Sign Language (Beginner)
+🇺🇸 English (Native)  
+🇪🇸 Spanish (Intermediate)  
+🤟 American Sign Language (Beginner)  
 
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jayson-acosta)
